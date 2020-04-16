@@ -63,7 +63,7 @@ This one is the best model obtained:
 
 ![awesome](https://raw.githubusercontent.com/illumi91/Kc_regression_inference_project/master/kc_dataset_images/final_model.PNG)
 
-Here we can see the top fature I've used:
+Here we can see the top fatures we have found:
 
 ![awesome](https://raw.githubusercontent.com/illumi91/Kc_regression_inference_project/master/kc_dataset_images/most_imp_feat.PNG)
 
