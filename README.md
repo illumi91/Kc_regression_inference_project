@@ -1,17 +1,30 @@
 
 # Module 1 Final Project
 
+# Files
+
+kc_house_data: raw data for kc_house
+kc_house_project.ipynb: notebook for EDA
+presentation.pdf: Slide presentation
+
+# Approach to the Project
+
+### -Data Mining: Collect necessary data for our project
+### -Data Cleaning: Fix data inconsistencies and handle missing values
+### -Business Understaning: Ask relevant questions and define the desired outcome
+### -Data Exploration: Create data Visualizations to understand your data and make the necessary hypotheses
+### -Predictive Modelling: Train Models, evaluate their performance and use them to create predictions
+
+
 
 ## Introduction
 
-In this lesson, we'll review all of the guidelines and specifications for the final project for Module 1. 
+For this project we will be dealing with a regression problem, through the kc_house dataset that contains price, nr. of rooms and others for several zipcodes in the US market.
 
-## Objectives
-You will be able to:
-* Describe all required aspects of the final project for Module 1
-* Describe all required deliverables
-* Describe what constitutes a successful project
-* Describe what the experience of the project review should be like
+It's an inference project so the main aim is to evaluate which predictor between our variables is more valuable when calculating the price of a house.
+
+The model I will be using is linear regression.
+
 
 ## Final Project Summary
 
